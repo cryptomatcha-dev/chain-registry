@@ -812,7 +812,7 @@
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/susds.svg"
       }
     },
-      {
+    {
       "description": "Join Matcha Club - use our ecosystem for for free.\nNFT builder, utility apps. Cooking non-stop!",
       "extended_description": "Team of proved builders. Verified fams. Join us!",
       "denom_units": [
@@ -861,7 +861,7 @@
         }
       ]
     },
-  {
+    {
       "description": "OPHIR is a Cosmos Treasury DAO",
       "extended_description": "The ancient city of gold",
       "denom_units": [
